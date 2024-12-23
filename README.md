@@ -1,6 +1,6 @@
 # नमस्ते \<Namaste\> 🙏🏽 It's Good To See You! :blue_heart:
 
-I'm Mohit Vaghadiya, but you can simply call me **mova**. I'm a dedicated computer programmer who finds joy in coding regardless of programming language. Open to collaborating on projects and exploring innovative ideas. I believe that while anyone can code, crafting high-quality code sets one apart.<br/><br/>
+Call me **mova**. I'm a dedicated computer programmer who finds joy in coding regardless of programming language. Open to collaborating on projects and exploring innovative ideas. I believe that while anyone can code, crafting high-quality code sets one apart.<br/><br/>
 
 ```python
 #!/usr/bin/python
@@ -9,7 +9,7 @@ I'm Mohit Vaghadiya, but you can simply call me **mova**. I'm a dedicated comput
 class Programmer:
 
     def __init__(me):
-        me.name:str = "Mohit Vaghadiya"
+        me.name:str = "Mova"
         me.other_name:str = "mova"
         me.current_role:str = "Data Engineer"
         me.language_spoken:list = ['en_IN', 'hi_IN', 'gn_IN']
